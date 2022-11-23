@@ -5,7 +5,9 @@ i{color:violet;font-size:18px;}
 header,footer{background-color:#9f06ad;color:#000000;}
 main{background-color:#42D4CC}
 .PRIMEIROPARAGRAFO{text-align:justify;font-size:18px;border:#b607ad solid 2px;padding:10px;margin:10px}
-.SEGUNDOPARAGRAFO{text-align:justify;font-size:18px border black solid 2px padding 10px;margin:10px}
+.SEGUNDOPARAGRAFO{text-align:justify;font-size:18px border black solid 2px padding 10px;margin:10px
+}
+
 :root {
     --cor-principal: rgb(46, 62, 77);
     --cor-secundaria: rgb(222, 228, 235);
@@ -40,3 +42,4 @@ nav ul li a:hover {
     background-color: var(--cor-secundaria);
     color: var(--cor-principal);
 }
+
