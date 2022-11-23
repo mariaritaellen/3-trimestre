@@ -1,8 +1,8 @@
-h1{text-align:center;background-color:#cc07ab;color:#b607ad;}
-h3{text-align:center; background-color:#00FA94;text-align:justify;}
+h1{text-align:center;background-color:#b607ad;color:#b607ad;}
+h3{text-align:center; background-color:#a807a0;text-align:justify;}
 b{color:deep pink;font-size:18px;}
 i{color:violet;font-size:18px;}
 header,footer{background-color:#9f06ad;color:#000000;}
 main{background-color:#42D4CC}
-.PRIMEIROPARAGRAFO{text-align:justify;font-size:18px;border:black solid 2px;padding:10px;margin:10px}
+.PRIMEIROPARAGRAFO{text-align:justify;font-size:18px;border:#b607ad solid 2px;padding:10px;margin:10px}
 .SEGUNDOPARAGRAFO{text-align:justify;font-size:18px border black solid 2px padding 10px;margin:10px}
